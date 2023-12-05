@@ -1,0 +1,745 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.resources-1J5 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.resources-1J5 .resources-YJ1 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 {
+  width: 100%;
+  height: 8.3rem;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.349999994) -0%, rgba(217, 217, 217, 0) 123.46%);
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .contact-y8R {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #2b1b58;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .rectangle-24-dim {
+  width: 100%;
+  height: 8.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #202f32;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .get-help-NgM {
+  width: 6.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 90.6rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .join-our-team-UjP {
+  width: 10.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .about-us-anR {
+  width: 6.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 117.85rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .contact-5jB {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 128.05rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .california-wellness-collective-B1X {
+  width: 31.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.025rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .item-9739371344-fBb {
+  width: 7.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 126.25rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .hellocawellnesscollectivecom-xAh {
+  width: 19.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 99.6rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .vector-SrZ {
+  width: 1.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 124.8rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .vector-PG1 {
+  width: 1.3rem;
+  height: 1rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resources-1J5 .resources-YJ1 .navigation-bar-gv1 .group-1-S8V .ellipse-1-iZB {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 10rem;
+  top: 2.1rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.resources-1J5 .resources-YJ1 .auto-group-bqb1-9Pb {
+  width: 100%;
+  height: 22.2rem;
+  position: relative;
+  background-size: 100% 432.485%;
+  background-position: 0 -25.8013rem;
+  background-image: url('/cwc_web/static/src/img/shelby-white-c8c1urqnyuu-unsplash-1-bg.png');
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-bqb1-9Pb .rectangle-35-hAD {
+  width: 100%;
+  height: 22.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(32, 47, 50, 0.5);
+}
+.resources-1J5 .resources-YJ1 .auto-group-bqb1-9Pb .resources-Rru {
+  width: 26.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 80.95rem;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.6666666667;
+  letter-spacing: -0.12rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .resources-YJ1 .auto-group-bqb1-9Pb .auto-group-bqb1-9Pb-bg {
+  width: 100%;
+  height: 22.2rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:06dd775f89904bc5822ce41b52ac6385e8b651c4');
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ {
+  box-sizing: border-box;
+  padding: 7.4rem 10.8rem 11.3rem 10.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .hotlines-self-help-resources-yG9 {
+  margin: 0rem 0rem 8.3rem 0.7rem;
+  max-width: 50rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.9;
+  letter-spacing: -0.12rem;
+  color: #202f32;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 {
+  margin: 0.6rem 27.4rem 0rem 0rem;
+  max-width: 37.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-1 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-3 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-5 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7 .national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-7 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z {
+  margin: 0.3rem 25.5rem 0rem 0rem;
+  max-width: 31.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-1 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-3 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-5 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z .self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-7 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty {
+  max-width: 34.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-1 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-3 {
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .resources-YJ1 .auto-group-2ayb-ezZ .auto-group-bi91-et5 .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty .alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-5 {
+}
+.resources-1J5 .footer-dsj {
+  box-sizing: border-box;
+  padding: 5.4rem 10rem 0.2rem 9.3rem;
+  width: 100%;
+  height: 41.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #202f32;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P {
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD {
+  margin-bottom: 12.2rem;
+  width: 100%;
+  height: 19.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo {
+  margin-right: 12.6rem;
+  width: 28.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-hcjf-LQm {
+  margin: 0rem 2.5rem 2.9rem 0rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-hcjf-LQm .ellipse-1-fhw {
+  margin: 0rem 1.2rem 0.1rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-hcjf-LQm .california-wellness-collective-Aub {
+  max-width: 21.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.12;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 {
+  margin-left: 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-hult-S6R {
+  margin: 1.2rem 1.1rem 1.2rem 0rem;
+  height: calc(100% - 2.4rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-hult-S6R .vector-AHK {
+  margin-bottom: 2.3rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-hult-S6R .vector-hY9 {
+  margin-bottom: 2rem;
+  width: 1.3rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-hult-S6R .vector-36D {
+  width: 1.3rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-9p9r-ykZ {
+  width: 25.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-9p9r-ykZ .item-323937-1344-XGH {
+  width: 8.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-9p9r-ykZ .infocaliforniawellnesscollectivecom-ozV {
+  width: 24.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 3.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-7kk9-zbo .auto-group-9wbr-JF7 .auto-group-9p9r-ykZ .w-pico-blvdlos-angeles-ca-90019-i5s {
+  width: 25.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .site-map-get-help-join-our-team-about-uscontact-QUV {
+  margin: 0.3rem 14rem 0rem 0rem;
+  max-width: 9.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .site-map-get-help-join-our-team-about-uscontact-QUV .site-map-get-help-join-our-team-about-uscontact-QUV-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .site-map-get-help-join-our-team-about-uscontact-QUV .site-map-get-help-join-our-team-about-uscontact-QUV-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .additional-info-self-help-resources-t2H {
+  margin-top: 0.3rem;
+  max-width: 14.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .additional-info-self-help-resources-t2H .additional-info-self-help-resources-t2H-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .additional-info-self-help-resources-t2H .additional-info-self-help-resources-t2H-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0.3rem 10.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 {
+  margin-right: 0.4rem;
+  width: 21.5rem;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .newsletter-signup-VgH {
+  margin-bottom: 1.3rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-hwwm-2RK {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 3.2rem;
+  position: relative;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-hwwm-2RK .enter-your-email-ZRF {
+  width: 10.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-hwwm-2RK .rectangle-13-rQM {
+  width: 21.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-f5dm-nYu {
+  display: flex;
+  align-items: center;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-f5dm-nYu .vector-wRo {
+  margin: 0rem 1.6rem 0.1rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-f5dm-nYu .vector-GU5 {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  width: 0.7rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-dbpp-Ym3 .auto-group-f5dm-nYu .vector-ydP {
+  margin-top: 0.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-qxph-gLD .auto-group-zjsd-221 .auto-group-ommv-7Uh {
+  margin: 4.4rem 0rem 11rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 15.4rem);
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d75e30;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-cy9h-m3T {
+  width: 124rem;
+  height: 4.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-cy9h-m3T .copyright-2023-california-wellness-collective-all-rights-reserved-hho {
+  width: 34.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-cy9h-m3T .terms-of-service-tGV {
+  width: 7.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 106.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-cy9h-m3T .privacy-policy-av1 {
+  width: 6.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resources-1J5 .footer-dsj .group-2-95P .auto-group-cy9h-m3T .vector-1-hDw {
+  width: 124rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}

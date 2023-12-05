@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="about">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/about.css"/>
+</head>
+<body>
+<div class="about-us-bHo">
+  <div class="about-us-j97">
+
+    <div class="auto-group-drpt-MGH">
+      <div class="screenshot-2023-08-18-at-657-2-6zZ">
+      </div>
+      <div class="header-1-15w">
+About Us</div>
+    </div>
+    <div class="auto-group-gbbq-nW1">
+      <div class="group-3-8pm">
+        <div class="auto-group-ruaw-RYy">
+          <p class="our-commitment-to-you-r8V">Our Commitment to You</p>
+          <p class="guiding-you-towards-fulfillment-and-harmony-ZHo">
+          Guiding You Towards
+          <br/>
+          Fulfillment and Harmony
+          </p>
+          <p class="whether-youre-seeking-support-for-personal-growth-strengthening-relationships-or-overcoming-lifes-challenges-our-committed-professionals-are-here-to-help-you-experience-the-transformative-power-of-personalized-support-and-direction-as-you-embark-on-your-journey-to-well-being-eq3">Whether you&#39;re seeking support for personal growth, strengthening relationships, or overcoming life&#39;s challenges, our committed professionals are here to help you. Experience the transformative power of personalized support and direction as you embark on your journey to well-being. </p>
+        </div>
+        <div class="auto-group-sd2j-rgD">
+          <img class="adobestock195430182preview-1-13K" src="/cwc_web/static/src/img/adobestock195430182preview-1.png"/>
+        </div>
+      </div>
+      <div class="group-4-JHK">
+        <div class="auto-group-1udz-xcm">
+          <div class="rectangle-23-Huw">
+          </div>
+          <img class="adobestock610556611preview-2cd" src="/cwc_web/static/src/img/adobestock610556611preview.png"/>
+        </div>
+        <div class="auto-group-4dwq-Yay">
+          <p class="our-mission-UUd">Our Mission</p>
+          <p class="the-california-wellness-collective-cwc-is-dedicated-to-providing-high-quality-psychotherapy-services-through-our-compassionate-team-of-associate-marriage-and-family-therapists-amft-and-social-workers-asw-our-mission-is-to-provide-clients-with-meaningful-and-client-centered-mental-health-care-services-that-empower-individuals-to-discover-their-strengths-embrace-growth-and-foster-positive-change-in-their-lives-NK7">The California Wellness Collective (CWC) is dedicated to providing high-quality psychotherapy services through our compassionate team of Associate Marriage and Family Therapists (AMFT) and Social Workers (ASW). Our mission is to provide clients with meaningful and client-centered mental health care services that empower individuals to discover their strengths, embrace growth, and foster positive change in their lives </p>
+          <p class="welcome-to-the-california-wellness-collective-heD">Welcome to the California Wellness Collective</p>
+        </div>
+      </div>
+      <div class="join-our-team-section-8jX">
+        <div class="auto-group-7hb1-psF">
+          <div class="auto-group-tyzd-98q">
+            <p class="our-vision-fcy">Our Vision</p>
+            <p class="creating-a-safe-haven-for-healing-and-positive-change-jcq">
+            Creating a Safe Haven for
+            <br/>
+            Healing and Positive Change
+            </p>
+          </div>
+          <div class="auto-group-pdvm-Nvh">
+            <p class="we-envision-a-world-where-high-quality-mental-health-care-services-are-accessible-for-all-the-cwc-is-a-dedicated-and-inclusive-private-practice-counseling-network-that-is-deeply-committed-to-connecting-clients-with-high-quality-mental-health-care-services-our-experienced-and-compassionate-counselors-prioritize-personalized-care-considering-the-unique-intersectional-factors-that-influence-mental-health-we-strive-to-foster-a-safe-and-nurturing-space-where-every-voice-is-heard-and-respected-working-together-toward-healing-empowerment-and-positive-social-change-pXo">We envision a world where high quality mental health care services are accessible for all. The CWC is a dedicated and inclusive private practice counseling network that is deeply committed to connecting clients with high-quality mental health care services. Our experienced and compassionate counselors prioritize personalized care, considering the unique intersectional factors that influence mental health. We strive to foster a safe and nurturing space where every voice is heard and respected, working together toward healing, empowerment, and positive social change.</p>
+          </div>
+        </div>
+        <div class="jeremy-bishop-49fpkw0nuta-unsplash1-4-c6H">
+        </div>
+      </div>
+    </div>
+    <div class="group-3-CKP">
+      <div class="auto-group-jdf1-H5w">
+        <div class="rectangle-65-o4H">
+        </div>
+        <img class="adobestock619082777preview-6JH" src="/cwc_web/static/src/img/adobestock619082777preview.png"/>
+      </div>
+      <div class="auto-group-tmgx-y7B">
+        <p class="populations-we-serve-tE9">Populations We Serve</p>
+        <p class="embracing-diversity-and-inclusion-wCR">
+        Embracing Diversity
+        <br/>
+        and Inclusion
+        </p>
+        <p class="the-cwc-proudly-brings-together-a-diverse-group-of-mental-health-professionals-to-serve-an-equally-diverse-client-base-we-specialize-in-addressing-challenges-related-to-anxiety-general-depression-and-trauma-within-a-safe-and-affirming-environment-we-respect-and-celebrate-all-identities-providing-support-for-everyone-seeking-to-improve-their-mental-health-niq">The CWC proudly brings together a diverse group of mental health professionals to serve an equally diverse client base. We specialize in addressing challenges related to anxiety, general depression, and trauma. Within a safe and affirming environment, we respect and celebrate all identities, providing support for everyone seeking to improve their mental health.</p>
+      </div>
+    </div>
+    <div class="auto-group-u227-445">
+      <p class="have-a-question-contact-us-today-yRw">Have a Question? Contact us Today</p>
+
+      <a href="/contactus"><div class="auto-group-7kio-UNh">Contact Us</div></a>
+    </div>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>

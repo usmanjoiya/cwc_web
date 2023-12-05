@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="get-help">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/get-help.css"/>
+</head>
+            <body>
+<div class="get-help-ojs">
+  <div class="get-help-Ljo">
+    <div class="header-1-gof">
+      <div class="rectangle-35-dU1">
+      </div>
+      <p class="get-help-Z6m">Get Help</p>
+
+      <div class="header-1-gof-bg">
+      </div>
+    </div>
+    <div class="become-a-client-section-1-HGy">
+      <div class="auto-group-pgzw-om7">
+        <div class="auto-group-bgtt-v53">
+          <img class="screenshot-2023-09-26-at-908-3-RXb" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-908-3.png"/>
+          <p class="angeliki-kanavou-7vD">
+          Angeliki Kanavou
+          <br/>
+
+          </p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-Cwf-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-ipcp-vwX">Book Appointment</div>
+        </div>
+        <div class="auto-group-76sv-ZDo">
+          <div class="auto-group-2dmd-fnd">
+            <img class="screenshot-2023-09-26-at-908-2-QVK" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-908-2.png"/>
+          </div>
+          <p class="alexandra-mirsakov-ugy">Alexandra Mirsakov</p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-cbP-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-cbtw-mo3">Book Appointment</div>
+        </div>
+        <div class="group-5-qH7">
+          <div class="auto-group-8js5-MWM">
+            <div class="screenshot-2023-09-26-at-909-1-VMf">
+            </div>
+          </div>
+          <p class="vivan-dugre-9h7">Vivan Dugre</p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-TSu-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-4gj7-uEM">Book Appointment</div>
+        </div>
+      </div>
+      <div class="auto-group-nwqf-xiR">
+        <div class="auto-group-huvv-g8d">
+          <div class="auto-group-mpfz-PHw">
+            <img class="screenshot-2023-09-26-at-910-1-v2y" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-910-1.png"/>
+          </div>
+          <p class="lena-vartanian-1KK">Lena Vartanian</p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-WWy-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-iwwy-K8y">Book Appointment</div>
+        </div>
+        <div class="auto-group-ufnb-Nsw">
+          <div class="auto-group-kyns-tbP">
+            <img class="screenshot-2023-09-26-at-910-2-RrD" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-910-2.png"/>
+          </div>
+          <p class="brooke-taylor-w3s">Brooke Taylor</p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-SmK-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-tw4o-Wgd">Book Appointment</div>
+        </div>
+        <div class="auto-group-xrbm-Niq">
+          <div class="auto-group-naif-E8m">
+            <img class="screenshot-2023-09-26-at-910-3-xaZ" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-910-3.png"/>
+          </div>
+          <p class="lizabeth-belli-rvq">Lizabeth Belli</p>
+          <p class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1">
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-0">
+            License type:
+            <br/>
+            License number:
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-1">
+             AMFT# 115398
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-2">Specialty:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-3">
+             MA Sc., PhD
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-4">Location:</span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-5">
+             Virtual, in person or both
+            <br/>
+
+            </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-6">Rates: </span>
+            <span class="license-type-license-number-amft-115398-specialty-ma-sc-phd-location-virtual-in-person-or-both-rates-150-hour-mY1-sub-7">$150/hour</span>
+          </p>
+          <div class="auto-group-rxhu-Erq">Book Appointment</div>
+        </div>
+      </div>
+      <div class="auto-group-8zmh-VXs">
+        <p class="provider-directory-pKF">Provider Directory</p>
+        <p class="find-a-counselor-JkD">Find a counselor</p>
+        <p class="your-mental-health-journey-is-personal-and-we-understand-that-one-size-doesnt-fit-all-please-review-our-provider-directory-to-find-an-associate-therapist-who-meets-with-your-needs-oS5">Your mental health journey is personal, and we understand that one size doesn&#39;t fit all.  Please review our Provider Directory to find an associate therapist who meets with your needs.</p>
+      </div>
+      <div class="auto-group-m3is-23w">
+        <div class="auto-group-q6sf-dpR">Availability</div>
+        <div class="auto-group-q6sf-dpR">Location</div>
+        <div class="auto-group-zetm-KBT">Language</div>
+        <div class="auto-group-wckb-1a5">Specialty</div>
+      </div>
+    </div>
+    <div class="auto-group-4mnj-NZ3">
+
+      <p class="become-a-client-V7s">Become a client</p>
+      <p class="request-an-intake-session-BmP">Request an Intake Session</p>
+      <div class="personal-information-form-HZX">
+        <div class="auto-group-zlcb-EzZ">
+          <div class="auto-group-fnhq-xvZ">
+            <div class="auto-group-w7l7-WBP">Full legal name*</div>
+            <div class="auto-group-jgyh-y4y">Phone Number</div>
+          </div>
+          <div class="pronouns-eS1">Email </div>
+          <div class="auto-group-a1wh-hv5">
+            <p class="im-interested-in-qFb">I’m Interested in</p>
+            <img class="polygon-1-Mjj" src="/cwc_web/static/src/img/polygon-1-wFs.png"/>
+          </div>
+          <div class="auto-group-j9xh-gX7">
+            <div class="rectangle-43-DG9">
+            </div>
+
+            <div class="auto-group-9tvh-XXj">
+                <span class="in-person-telehealth-first-available-leave-blank-for-no-preference-FyX-sub-0">In-person </span>
+            </div>
+            <div class="rectangle-43-DG9">
+            </div>
+            <div class="auto-group-9tvh-XXj">
+                <span class="in-person-telehealth-first-available-leave-blank-for-no-preference-FyX-sub-0">In-person </span>
+                 <span class="in-person-telehealth-first-available-leave-blank-for-no-preference-FyX-sub-0"> Telehealth</span>
+                 <span class="in-person-telehealth-first-available-leave-blank-for-no-preference-FyX-sub-0"> First available</span>
+                <span class="in-person-telehealth-first-available-leave-blank-for-no-preference-FyX-sub-1">(leave blank for no preference)</span>
+
+
+              <div class="rectangle-45-VWV">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="auto-group-ros9-DBb">Submit</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+
+        </t>
+    </template>
+</odoo>

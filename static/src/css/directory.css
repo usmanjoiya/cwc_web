@@ -1,0 +1,922 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.directory-internal-6qj {
+  width: 100%;
+  height: 144rem;
+}
+.directory-internal-6qj .directory-internal-SPo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o {
+  width: 100%;
+  height: 8.3rem;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.349999994) -0%, rgba(217, 217, 217, 0) 123.46%);
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .contact-szu {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #2b1b58;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .rectangle-24-y2M {
+  width: 100%;
+  height: 8.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #202f32;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .get-help-WHB {
+  width: 6.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 90.6rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .join-our-team-oGH {
+  width: 10.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .about-us-HBT {
+  width: 6.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 117.85rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .contact-PVP {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 128.05rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .california-wellness-collective-W4D {
+  width: 31.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.025rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .item-9739371344-bbT {
+  width: 7.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 126.25rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .hellocawellnesscollectivecom-HDP {
+  width: 19.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 99.6rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .vector-yru {
+  width: 1.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 124.8rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .vector-7TK {
+  width: 1.3rem;
+  height: 1rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.directory-internal-6qj .directory-internal-SPo .navigation-bar-b1o .group-1-LVB .ellipse-1-TXB {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 10rem;
+  top: 2.1rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd {
+  width: 100%;
+  height: 184.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .become-a-client-section-1-pW9 {
+  width: 100%;
+  height: 99.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .angeliki-kanavou-ZCq {
+  width: 38%;
+  height: 6.9rem;
+  position: absolute;
+  left: 55.15rem;
+  top: 9.2rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  letter-spacing: -0.1rem;
+  color: #202f32;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .ma-sc-phd-dyP {
+  width: 38%;
+  height: 2.6rem;
+  position: absolute;
+  left: 42.05rem;
+  top: 7.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8571428571;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #d75e30;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .screenshot-2023-09-26-at-908-1-hiM {
+  width: 30%;
+  height: 62.4rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .rectangle-61-cqK {
+  width: 20.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 84.9rem;
+  background-color: #d75e30;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .rectangle-62-wsb {
+  width: 20.1rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 94.2rem;
+  top: 84.9rem;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--4xD {
+  width: 10.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 76.3rem;
+  top: 85.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--4xD .schedule-a-call--4xD-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #fef2e6;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--4xD .schedule-a-call--4xD-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--5Vw {
+  width: 10.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 76.8rem;
+  top: 85.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--5Vw .schedule-a-call--5Vw-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #fef2e6;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .schedule-a-call--5Vw .schedule-a-call--5Vw-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .back-to-directory-yDw {
+  width: 12.2rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 98.15rem;
+  top: 85.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #202f32;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay {
+  width: 57%;
+  height: 69.4rem;
+  position: absolute;
+  left: 73.1rem;
+  top: 19rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-4 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-5 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-7 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-8 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-10 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-11 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-12 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-13 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-14 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-15 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-16 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-17 {
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-18 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay .license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-19 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV {
+  width: 100%;
+  height: 44.6rem;
+  position: absolute;
+  left: 0;
+  top: 99.1rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .rectangle-32-nM3 {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #1b2858;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .rectangle-33-XpR {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #d9d9d9;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .screenshot-2023-08-18-at-407-1-t9B {
+  width: 100%;
+  height: 48.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .rectangle-81-1jb {
+  width: 50%;
+  height: 25.6rem;
+  position: absolute;
+  left: 46rem;
+  top: 8.5rem;
+  background-color: rgba(215, 94, 48, 0.8000000119);
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .have-a-questioncontact-us-today-wt9 {
+  width: 43%;
+  height: 12rem;
+  position: absolute;
+  left: 54.25rem;
+  top: 12.3rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.15rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .contact-us-dky {
+  width: 6.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 27.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .rectangle-21-9DX {
+  width: 15.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 87rem;
+  top: 26.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .pre-foot-cta-rCV .rectangle-33-fxZ {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #d9d9d9;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-Qv9 {
+  width: 100%;
+  height: 41.2rem;
+  position: absolute;
+  left: 0;
+  top: 143.5rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy {
+  box-sizing: border-box;
+  padding: 5.4rem 10rem 0.2rem 9.3rem;
+  width: 100%;
+  height: 41.2rem;
+  position: absolute;
+  left: 0;
+  top: 143.5rem;
+  overflow: hidden;
+  background-color: #202f32;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 {
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR {
+  margin-bottom: 12.2rem;
+  width: 100%;
+  height: 19.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob {
+  margin-right: 12.6rem;
+  width: 28.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-zfcf-HsT {
+  margin: 0rem 2.5rem 2.9rem 0rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-zfcf-HsT .ellipse-1-cPw {
+  margin: 0rem 1.2rem 0.1rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-zfcf-HsT .california-wellness-collective-87P {
+  max-width: 21.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.12;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j {
+  margin-left: 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-7wts-nBw {
+  margin: 1.2rem 1.1rem 1.2rem 0rem;
+  height: calc(100% - 2.4rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-7wts-nBw .vector-uXT {
+  margin-bottom: 2.3rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-7wts-nBw .vector-2c5 {
+  margin-bottom: 2rem;
+  width: 1.3rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-7wts-nBw .vector-mpZ {
+  width: 1.3rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-8flf-Wn9 {
+  width: 25.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-8flf-Wn9 .item-323937-1344-GFX {
+  width: 8.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-8flf-Wn9 .infocaliforniawellnesscollectivecom-yQq {
+  width: 24.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 3.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-kwxf-wob .auto-group-6nt5-e5j .auto-group-8flf-Wn9 .w-pico-blvdlos-angeles-ca-90019-rUd {
+  width: 25.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .site-map-get-help-join-our-team-about-uscontact-joK {
+  margin: 0.3rem 14rem 0rem 0rem;
+  max-width: 9.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .site-map-get-help-join-our-team-about-uscontact-joK .site-map-get-help-join-our-team-about-uscontact-joK-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .site-map-get-help-join-our-team-about-uscontact-joK .site-map-get-help-join-our-team-about-uscontact-joK-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .additional-info-self-help-resources-D6D {
+  margin-top: 0.3rem;
+  max-width: 14.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .additional-info-self-help-resources-D6D .additional-info-self-help-resources-D6D-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .additional-info-self-help-resources-D6D .additional-info-self-help-resources-D6D-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0.3rem 10.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR {
+  margin-right: 0.4rem;
+  width: 21.5rem;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .newsletter-signup-Wd3 {
+  margin-bottom: 1.3rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-akgj-eUM {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 3.2rem;
+  position: relative;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-akgj-eUM .enter-your-email-Bz5 {
+  width: 10.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-akgj-eUM .rectangle-13-ttV {
+  width: 21.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-qwfu-EBf {
+  display: flex;
+  align-items: center;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-qwfu-EBf .vector-PKT {
+  margin: 0rem 1.6rem 0.1rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-qwfu-EBf .vector-uYh {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  width: 0.7rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-jqjs-xrR .auto-group-qwfu-EBf .vector-pff {
+  margin-top: 0.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-vksm-cWR .auto-group-eymh-EfX .auto-group-doq7-ADj {
+  margin: 4.4rem 0rem 11rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 15.4rem);
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d75e30;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-kxjw-pp5 {
+  width: 124rem;
+  height: 4.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-kxjw-pp5 .copyright-2023-california-wellness-collective-all-rights-reserved-Nah {
+  width: 34.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-kxjw-pp5 .terms-of-service-Ts3 {
+  width: 7.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 106.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-kxjw-pp5 .privacy-policy-NDK {
+  width: 6.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.directory-internal-6qj .directory-internal-SPo .auto-group-c3aj-hAd .footer-xAy .group-2-rn9 .auto-group-kxjw-pp5 .vector-1-H5P {
+  width: 124rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}

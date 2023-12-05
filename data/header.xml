@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="new_header" inherit_id="portal.frontend_layout" name="new_header">
+        <xpath expr="//header[@id='top']" position="replace">
+                        <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>
+</head>
+<body>
+<div class="homepage-GsF">
+  <div class="navigation-bar-QiZ">
+    <div class="group-1-xVB">
+      <a href="/contactus"><p class="contact-hBs">Contact</p></a>
+      <div class="rectangle-24-mxR">
+      </div>
+      <a href="/get-help"><p class="get-help-JxM">Get Help</p></a>
+      <a href="/join-our-team"><p class="join-our-team-QkV">Join Our Team</p></a>
+      <a href="/aboutus"><p class="about-us-WoX">About Us</p></a>
+      <a href="/contactus"><p class="contact-p3X">Contact</p></a>
+      <a href="/"> <p class="california-wellness-collective-XCq">California Wellness Collective</p></a>
+      <p class="item-9739371344-1th">973.937.1344</p>
+      <p class="hellocawellnesscollectivecom-hmX">hello@cawellnesscollective.com</p>
+      <img class="vector-Qfw" src="/cwc_web/static/src/img/vector-UVs.png"/>
+      <img class="vector-wQy" src="/cwc_web/static/src/img/vector-BYR.png"/>
+      <a href="/"><div class="ellipse-1-Ufo">
+      </div></a>
+    </div>
+  </div>
+</div>
+</body>
+
+        </xpath>
+    </template>
+</odoo>

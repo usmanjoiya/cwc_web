@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+     <template id="dash_footer" inherit_id="website.footer_custom" name="Footer">
+        <xpath expr="//div[@id='footer']" position="replace">
+ <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>
+</head>
+<body>
+<div class="homepage-GsF">
+  <div class="footer-DWm">
+    <div class="group-2-wSm">
+      <div class="auto-group-w3zd-6Kf">
+        <div class="auto-group-yetb-ERs">
+          <div class="auto-group-7w2k-yPT">
+            <div class="ellipse-1-hqF">
+            </div>
+            <p class="california-wellness-collective-DYh">
+            California Wellness
+            <br/>
+            Collective
+            </p>
+          </div>
+          <div class="auto-group-758x-wUh">
+            <div class="auto-group-7oak-fvV">
+              <img class="vector-oG1" src="/cwc_web/static/src/img/vector-pUm.png"/>
+              <img class="vector-jfT" src="/cwc_web/static/src/img/vector-E21.png"/>
+              <img class="vector-5jK" src="/cwc_web/static/src/img/vector-fFK.png"/>
+            </div>
+            <div class="auto-group-flkm-2eZ">
+              <p class="item-323937-1344-PED">323.937-1344</p>
+              <p class="infocaliforniawellnesscollectivecom-VY9">Info@californiawellnesscollective.com</p>
+              <p class="w-pico-blvdlos-angeles-ca-90019-bLH">5615 W Pico BlvdLos Angeles, CA 90019</p>
+            </div>
+          </div>
+        </div>
+        <p class="site-map-get-help-join-our-team-about-uscontact-HD7">
+          <span class="site-map-get-help-join-our-team-about-uscontact-HD7-sub-0">
+          Site Map
+          <br/>
+
+          </span>
+          <span class="site-map-get-help-join-our-team-about-uscontact-HD7-sub-1">
+          Get Help
+          <br/>
+          Join Our Team
+          <br/>
+          About Us
+          <br/>
+          Contact
+          <br/>
+
+          </span>
+        </p>
+        <p class="additional-info-self-help-resources-5oB">
+          <span class="additional-info-self-help-resources-5oB-sub-0">
+          Additional Info
+          <br/>
+
+          </span>
+          <span class="additional-info-self-help-resources-5oB-sub-1">
+          Self Help Resources
+          <br/>
+
+          </span>
+        </p>
+        <div class="auto-group-wcjo-MeD">
+          <div class="auto-group-dv2f-42q">
+            <p class="newsletter-signup-Mnd">Newsletter Signup</p>
+            <div class="auto-group-js11-gpu">
+              <p class="enter-your-email-S3P">Enter your email</p>
+              <div class="rectangle-13-YMK">
+              </div>
+            </div>
+            <div class="auto-group-fps3-GYD">
+              <img class="vector-cc5" src="/cwc_web/static/src/img/vector-FsK.png"/>
+              <img class="vector-Xyw" src="/cwc_web/static/src/img/vector-9cy.png"/>
+              <img class="vector-rmK" src="/cwc_web/static/src/img/vector-eoP.png"/>
+            </div>
+          </div>
+          <div class="auto-group-q53y-z6q">Subscribe</div>
+        </div>
+      </div>
+      <div class="auto-group-g2ww-d9o">
+        <p class="copyright-2023-california-wellness-collective-all-rights-reserved-mWu">© Copyright 2023 California Wellness Collective. All rights reserved.</p>
+        <p class="terms-of-service-xrH">Terms of Service</p>
+        <p class="privacy-policy-4uK">Privacy Policy</p>
+       <svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2" viewBox="0 0 1240 2" fill="none">
+  <path d="M0 1H1240" stroke="#EEE1D4"/>
+</svg>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+
+        </xpath>
+     </template>
+</odoo>

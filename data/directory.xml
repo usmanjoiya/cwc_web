@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="directory">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/directory.css"/>
+</head>
+<body>
+<div class="directory-internal-6qj">
+  <div class="directory-internal-SPo">
+    <div class="auto-group-c3aj-hAd">
+      <div class="become-a-client-section-1-pW9">
+      </div>
+      <p class="angeliki-kanavou-ZCq">Angeliki Kanavou</p>
+      <p class="ma-sc-phd-dyP">MA Sc., PhD</p>
+      <img class="screenshot-2023-09-26-at-908-1-hiM" src="/cwc_web/static/src/img/screenshot-2023-09-26-at-908-1.png"/>
+
+        <a href="/contactus">
+      <div class="rectangle-61-cqK">
+      </div>
+        </a>
+
+        <a href="/get-help">
+      <div class="rectangle-62-wsb">
+      </div>
+        </a>
+
+        <a href="/contactus">
+      <p class="schedule-a-call--4xD">
+        <span class="schedule-a-call--4xD-sub-0">
+
+        <br/>
+
+        </span>
+        <span class="schedule-a-call--4xD-sub-1">
+
+        <br/>
+
+        <br/>
+
+        <br/>
+
+        </span>
+      </p>
+        </a>
+        <a href="/contactus">
+      <p class="schedule-a-call--5Vw">
+        <span class="schedule-a-call--5Vw-sub-0">
+        Schedule a Call
+        <br/>
+
+        </span>
+        <span class="schedule-a-call--5Vw-sub-1">
+
+        <br/>
+
+        <br/>
+
+        <br/>
+
+        </span>
+      </p></a>
+
+      <a href="/get-help">
+        <p class="back-to-directory-yDw">Back to Directory</p>
+      </a>
+      <p class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay">
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-0">License Type: </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-1">
+         MA Sc., PhD
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-2">License Number:</span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-3"> AMFT# 115398</span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-4">
+
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-5">Location:</span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-6"> </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-7">
+        Virtual
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-8">Specialties:</span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-9"> AMFT# 115398</span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-10">
+
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-11">Languages: </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-12">
+        French/Italian/Greek/English/Spanish 
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-13">Rate: </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-14">
+        $150/hour 
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-15">
+
+        <br/>
+        Bio:
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-16"> </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-17">
+         
+        <br/>
+
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-18">
+        I am a former professor of Peace and Conflict Studies. My belief in the possibility for change through self knowledge and awareness drove me to clinical psychology. Additionally, I am a trauma informed (EMDR &amp; IFS) psychodynamic and systemic psychotherapist. As a native of Greece, I speak French and Italian and conversational Spanish.
+        <br/>
+
+        <br/>
+        As a former professor of Peace and Conflict Studies, I have a deep conviction in the potential for change through self-awareness, which led me to pursue clinical psychology. I specialize as a trauma-informed psychotherapist, utilizing EMDR and IFS methods, with a focus on psychodynamic and systemic approaches. As a native of Greece, I am fluent in Greek, French and Italian, and I can engage in conversational Spanish. My diverse background and expertise allow me to connect with clients from various cultural and linguistic backgrounds, empowering them to explore self-knowledge and drive positive transformations.
+        </span>
+        <span class="license-type-ma-sc-phd-license-number-amft-115398location-virtualspecialties-amft-115398languages-french-italian-greek-english-spanishrate-150-hour-bio-i-am-a-former-professor-of-peace-and-conflict-studies-my-belief-in-the-possibility-for-change-through-self-knowledge-and-awareness-drove-me-to-clinical-psychology-additionally-i-am-a-trauma-informed-emdr-ifs-psychodynamic-and-systemic-psychotherapist-as-a-native-of-greece-i-speak-french-and-italian-and-conversational-spanishas-a-former-professor-of-peace-and-conflict-studies-i-have-a-deep-conviction-in-the-potential-for-change-through-self-awareness-which-led-me-to-pursue-clinical-psychology-i-specialize-as-a-trauma-informed-psychotherapist-utilizing-emdr-and-ifs-methods-with-a-focus-on-psychodynamic-and-systemic-approaches-as-a-native-of-greece-i-am-fluent-in-greek-french-and-italian-and-i-can-engage-in-conversational-spanish-my-diverse-background-and-expertise-allow-me-to-connect-with-clients-from-various-cultural-and-linguistic-backgrounds-empowering-them-to-explore-self-knowledge-and-drive-positive-transformations-eay-sub-19">
+
+        <br/>
+
+        <br/>
+
+        <br/>
+
+        <br/>
+
+        </span>
+      </p>
+      <div class="pre-foot-cta-rCV">
+        <div class="rectangle-32-nM3">
+        </div>
+        <div class="rectangle-33-XpR">
+        </div>
+        <img class="screenshot-2023-08-18-at-407-1-t9B" src="/cwc_web/static/src/img/screenshot-2023-08-18-at-407-1.png"/>
+        <div class="rectangle-81-1jb">
+        </div>
+        <p class="have-a-questioncontact-us-today-wt9">
+        Have a Question?
+        <br/>
+        Contact us Today
+        </p>
+
+        <a href="/contactus">
+        <p class="contact-us-dky">Contact Us</p>
+        <div class="rectangle-21-9DX">
+        </div>
+        <div class="rectangle-33-fxZ">
+        </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>

@@ -1,0 +1,1022 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+.homepage-GsF {
+  min-width: 100%; /* or any other suitable value */
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-GsF .navigation-bar-QiZ {
+  width: 100%;
+  height: 8.3rem;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.349999994) -0%, rgba(217, 217, 217, 0) 123.46%);
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .contact-hBs {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #2b1b58;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .rectangle-24-mxR {
+  width: 100%;
+  height: 8.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #202f32;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .get-help-JxM {
+  width: 6.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 104rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .join-our-team-QkV {
+  width: 10.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 114.1rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .about-us-WoX {
+  width: 6.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 128.85rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .contact-p3X {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 140.05rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3025;
+  letter-spacing: -0.015rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .california-wellness-collective-XCq {
+  width: 31.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.025rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .item-9739371344-1th {
+  width: 7.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 140.25rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .hellocawellnesscollectivecom-hmX {
+  width: 19.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .vector-Qfw {
+  width: 1.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 137.8rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .vector-wQy {
+  width: 1.3rem;
+  height: 1rem;
+  position: absolute;
+  left: 103.5rem;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-GsF .navigation-bar-QiZ .group-1-xVB .ellipse-1-Ufo {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 10rem;
+  top: 2.1rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.homepage-GsF .auto-group-k7vd-uWD {
+  width: 100%;
+  height: 96.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ {
+  box-sizing: border-box;
+  padding: 5.8rem 10rem 4.8rem 30rem;
+  width: 100%;
+  height: 47rem;
+  position: absolute;
+  left: 0;
+  top: 49.6rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd {
+  margin: 7.3rem 43.75rem 6.7rem -20rem;
+  height: calc(100% - 14rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd .auto-group-b9wh-rpm {
+  margin: 0rem 0rem 0.6rem 0.05rem;
+  width: 36.7rem;
+  height: 9.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd .auto-group-b9wh-rpm .become-a-client-NYD {
+  width: 36.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  letter-spacing: -0.11rem;
+  color: #202f32;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd .auto-group-b9wh-rpm .get-help-5Bj {
+  width: 7.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8571428571;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #d75e30;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd .take-a-look-at-our-provider-directory-to-find-a-therapist-today-kYm {
+  margin-bottom: 3.5rem;
+  max-width: 29rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .auto-group-jp8j-LLd .auto-group-yie7-Eiq {
+  width: 13.7rem;
+  height: 3.7rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #0b0b0b;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('/cwc_web/static/src/img/rectangle-19.png');
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .become-a-client-section-1-rAZ .adobestock642110983preview-1-v5s {
+  width: 83.5rem;
+  height: 40.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 {
+  width: 100%;
+  height: 50.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 .screenshot-2023-08-18-at-612-1-NCm {
+  width: 100%;
+  height: 50.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 .rectangle-78-Umb {
+  width: 100%;
+  height: 50.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.61deg, #202f32 0.49%, rgba(27, 40, 88, 0) 57.54%);
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 .supporting-your-mental-health-journey--yiM {
+  width: 69.9rem;
+  height: 14rem;
+  position: absolute;
+  left: 10rem;
+  top: 15.2rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.14rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 .rectangle-79-dnu {
+  width: 68.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 10rem;
+  top: 30.9rem;
+  background-color: #d75e30;
+}
+.homepage-GsF .auto-group-k7vd-uWD .header-1-dW5 .individual-couples-and-family-counseling-MU1 {
+  width: 64.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.0833333333;
+  letter-spacing: 0.24rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .join-our-team-section-24M {
+  box-sizing: border-box;
+  padding: 7.7rem 21.6rem 6.5rem 30rem;
+  width: 100%;
+  height: 54.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #202f32;
+  flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-sk9r-ixm {
+  margin-right: 26.05rem;
+    width: 54.4rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-sk9r-ixm .rectangle-20-GDb {
+    width: 51.1rem;
+    height: 38.9rem;
+    position: absolute;
+    left: 0;
+    top: 1.4rem;
+    background-color: #d75e30;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-sk9r-ixm .adobestock325736831preview-QKo {
+  width: 64.8rem;
+    height: 39rem;
+    position: absolute;
+    left: -18.4rem;
+    top: 0;
+    object-fit: cover;
+    vertical-align: top;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED {
+  margin: 4.4rem 0rem 6.9rem -10rem;
+  height: calc(100% - 11.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-b8qs-2c5 {
+  margin-bottom: 0.2rem;
+  width: 33.65rem;
+  height: 8.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-b8qs-2c5 .join-our-team-m3s {
+  width: 33.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 1.9rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.2727272727;
+  letter-spacing: -0.11rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-b8qs-2c5 .bbs-licensed-associates-etM {
+  width: 21.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8571428571;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #d75e30;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .gain-paid-experience-on-your-journey-to-licensureaccess-first-class-clinical-supervision-and-clinical-skills-training-through-the-southern-california-counseling-center-build-your-caseload-navigate-clinical-and-business-intersections-and-become-a-valued-member-of-our-supportive-community-jQ1 {
+  margin: 0rem 0rem 3.7rem 0.05rem;
+  max-width: 47.5rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5625;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-zhyf-HZw {
+  margin-left: 0.05rem;
+  width: 13.7rem;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-zhyf-HZw .join-us-RAM {
+  width: 4.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #fef2e6;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .join-our-team-section-24M .auto-group-bgom-7ED .auto-group-zhyf-HZw .rectangle-19-v77 {
+  width: 13.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.homepage-GsF .group-3-dGR {
+  box-sizing: border-box;
+  padding: 9.1rem 10.1rem 9.2rem 10rem;
+  width: 100%;
+  height: 64.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP {
+  margin: 0.5rem 6.8rem 0.9rem 0rem;
+  width: 62.45rem;
+  height: calc(100% - 1.4rem);
+  flex-shrink: 0;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-xjwp-r9B {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  height: 18.9rem;
+  position: relative;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-xjwp-r9B .empowering-strength-fostering-change-accessible-mental-health-for-all-zWH {
+  width: 62.4rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 2.3rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.1rem;
+  color: #202f32;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-xjwp-r9B .who-we-are-FBK {
+  width: 10.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8571428571;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #d75e30;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .the-cwc-is-a-community-of-therapists-who-specialize-in-relational-client-centered-trauma-informed-therapy-our-counselors-offer-personalized-support-creating-a-safe-space-where-everyones-voice-is-heard-we-aim-to-foster-healing-empowerment-and-positive-social-change-by-offering-affordable-and-accessible-mental-health-services-YAR {
+  margin: 0rem 0rem 2.8rem 0.05rem;
+  max-width: 58.3rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5625;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .we-provide-both-in-person-and-online-telehealth-counseling-options-hSd {
+  margin: 0rem 0rem 3.8rem 0.05rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.625;
+  letter-spacing: -0.032rem;
+  color: #d75e30;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-d4vz-yf3 {
+  margin-left: 0.05rem;
+  width: 13.7rem;
+  height: 3.7rem;
+  position: relative;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-d4vz-yf3 .learn-more-Wus {
+  width: 7.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #1b2858;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .group-3-dGR .auto-group-hyu7-YPP .auto-group-d4vz-yf3 .rectangle-19-DpH {
+  width: 13.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.homepage-GsF .group-3-dGR .auto-group-qnm9-Xpy {
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/adobestock105333780preview-bg.png');
+  flex-shrink: 0;
+}
+.homepage-GsF .group-3-dGR .auto-group-qnm9-Xpy .adobestock393162993preview-1-V17 {
+  width: 89.7rem;
+  height: 46.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-GsF .pre-foot-cta-mzD {
+  width: 100%;
+  height: 44.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-32-uad {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #1b2858;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-33-eHK {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #d9d9d9;
+}
+.homepage-GsF .pre-foot-cta-mzD .screenshot-2023-08-18-at-407-1-yqP {
+  width: 100%;
+  height: 48.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-81-uj3 {
+  width: 75rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 50rem;
+  top: 8.5rem;
+  background-color: rgba(215, 94, 48, 0.8000000119);
+}
+.homepage-GsF .pre-foot-cta-mzD .have-a-questioncontact-us-today-Dzd {
+  width: 35.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 68rem;
+  top: 12.3rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.15rem;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.homepage-GsF .pre-foot-cta-mzD .contact-us-7KK {
+  width: 6.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 81.5rem;
+  top: 27.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-32-pDj {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #1b2858;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-21-ZBK {
+  width: 15.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 77rem;
+  top: 26.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.homepage-GsF .pre-foot-cta-mzD .rectangle-33-sxh {
+  width: 100%;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+  background-color: #d9d9d9;
+}
+.homepage-GsF .footer-DWm {
+  box-sizing: border-box;
+  padding: 5.4rem 10rem 0.2rem 30rem;
+  width: 100%;
+  height: 41.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #202f32;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm {
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf {
+  margin-bottom: 12.2rem;
+  width: 100%;
+  height: 19.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs {
+  margin-right: 12.6rem;
+  width: 28.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-7w2k-yPT {
+  margin: 0rem 2.5rem 2.9rem 0rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-7w2k-yPT .ellipse-1-hqF {
+  margin: 0rem 1.2rem 0.1rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  border: solid 0.6rem #d75e30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-7w2k-yPT .california-wellness-collective-DYh {
+  max-width: 21.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.12;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh {
+  margin-left: 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-7oak-fvV {
+  margin: 1.2rem 1.1rem 1.2rem 0rem;
+  height: calc(100% - 2.4rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-7oak-fvV .vector-oG1 {
+  margin-bottom: 2.3rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-7oak-fvV .vector-jfT {
+  margin-bottom: 2rem;
+  width: 1.3rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-7oak-fvV .vector-5jK {
+  width: 1.3rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-flkm-2eZ {
+  width: 25.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-flkm-2eZ .item-323937-1344-PED {
+  width: 8.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-flkm-2eZ .infocaliforniawellnesscollectivecom-VY9 {
+  width: 24.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 3.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-yetb-ERs .auto-group-758x-wUh .auto-group-flkm-2eZ .w-pico-blvdlos-angeles-ca-90019-bLH {
+  width: 25.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .site-map-get-help-join-our-team-about-uscontact-HD7 {
+  margin: 0.3rem 14rem 0rem 0rem;
+  max-width: 9.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .site-map-get-help-join-our-team-about-uscontact-HD7 .site-map-get-help-join-our-team-about-uscontact-HD7-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .site-map-get-help-join-our-team-about-uscontact-HD7 .site-map-get-help-join-our-team-about-uscontact-HD7-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .additional-info-self-help-resources-5oB {
+  margin-top: 0.3rem;
+  max-width: 14.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3710000992;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .additional-info-self-help-resources-5oB .additional-info-self-help-resources-5oB-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .additional-info-self-help-resources-5oB .additional-info-self-help-resources-5oB-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  font-style: italic;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0.3rem 10.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q {
+  margin-right: 0.4rem;
+  width: 21.5rem;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .newsletter-signup-Mnd {
+  margin-bottom: 1.3rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #fdf1e5;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-js11-gpu {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 3.2rem;
+  position: relative;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-js11-gpu .enter-your-email-S3P {
+  width: 10.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-js11-gpu .rectangle-13-YMK {
+  width: 21.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d75e30;
+  box-sizing: border-box;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-fps3-GYD {
+  display: flex;
+  align-items: center;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-fps3-GYD .vector-cc5 {
+  margin: 0rem 1.6rem 0.1rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-fps3-GYD .vector-Xyw {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  width: 0.7rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-dv2f-42q .auto-group-fps3-GYD .vector-rmK {
+  margin-top: 0.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-w3zd-6Kf .auto-group-wcjo-MeD .auto-group-q53y-z6q {
+  margin: 4.4rem 0rem 11rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 15.4rem);
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  color: #fdf1e5;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d75e30;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-g2ww-d9o {
+  width: 151rem;
+  height: 4.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-g2ww-d9o .copyright-2023-california-wellness-collective-all-rights-reserved-mWu {
+  width: 34.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-g2ww-d9o .terms-of-service-xrH {
+  width: 7.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 106.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-g2ww-d9o .privacy-policy-4uK {
+  width: 6.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 3.6363636364;
+  color: #eee0d4;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-GsF .footer-DWm .group-2-wSm .auto-group-g2ww-d9o .vector-1-acm {
+  width: 124rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}

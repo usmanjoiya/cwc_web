@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="resources">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/resources.css"/>
+</head>
+            <body>
+<div class="resources-1J5">
+  <div class="resources-YJ1">
+
+    <div class="auto-group-bqb1-9Pb">
+      <div class="rectangle-35-hAD">
+      </div>
+      <p class="resources-Rru">Resources</p>
+      <div class="auto-group-bqb1-9Pb-bg">
+      </div>
+    </div>
+    <div class="auto-group-2ayb-ezZ">
+      <p class="hotlines-self-help-resources-yG9">
+      Hotlines &amp;
+      <br/>
+      Self-Help Resources
+      </p>
+      <div class="auto-group-bi91-et5">
+        <p class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7">
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-0">National Suicide Prevention Hotline: </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-1">
+
+          <br/>
+          dial 988
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-2">
+          National Domestic Violence Hotline:
+          <br/>
+
+          </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-3">
+          (800) 799-7233
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-4">Family Violence Helpline: </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-5">
+
+          <br/>
+          (800) 996-6228
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-6">
+          American Association of Poison Control Centers:
+          <br/>
+
+          </span>
+          <span class="national-suicide-prevention-hotline-dial-988-national-domestic-violence-hotline-800-799-7233-family-violence-helpline-800-996-6228-american-association-of-poison-control-centers-800-222-1222-cK7-sub-7">(800) 222-1222</span>
+        </p>
+        <p class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z">
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-0">
+          Self-Harm Hotline:
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-1">
+          (800) 366-8288
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-2">
+          Planned Parenthood Hotline:
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-3">
+          (800) 230-7526
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-4">
+          The Trevor Project Hotline:
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-5">
+          (866) 488-7386
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-6">
+          National Crisis Line, Anorexia and Bulimia:
+          <br/>
+
+          </span>
+          <span class="self-harm-hotline-800-366-8288-planned-parenthood-hotline-800-230-7526-the-trevor-project-hotline-866-488-7386-national-crisis-line-anorexia-and-bulimia-800-233-4357-46Z-sub-7">(800) 233-4357</span>
+        </p>
+        <p class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty">
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-0">
+          Alcoholism and Drug Dependency Hope Line:
+          <br/>
+
+          </span>
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-1">
+          (800) 622-2255
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-2">SAMHSA: </span>
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-3">
+
+          <br/>
+          (800) 662-4357
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-4">
+          NAMI:
+          <br/>
+
+          </span>
+          <span class="alcoholism-and-drug-dependency-hope-line-800-622-2255-samhsa-800-662-4357-nami-800-950-6264-fty-sub-5">(800) 950-6264</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>

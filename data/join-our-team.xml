@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="join-our-team">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/join-our-team.css"/>
+</head>
+<body>
+<div class="join-our-team-ZQy">
+  <div class="join-our-team-PQ1">
+    <div class="rectangle-30-WN9">
+    </div>
+    <div class="join-our-team-os3">
+      <div class="auto-group-r8lb-773">
+        <img class="screenshot-2023-08-18-at-612-1-3mP" src="/cwc_web/static/src/img/screenshot-2023-08-18-at-612-1-AZ3.png"/>
+        <div class="header-1-ZDw">
+          <div class="rectangle-35-VdP">
+          </div>
+          <p class="join-our-team-iuT">Join Our Team</p>
+
+        </div>
+      </div>
+      <div class="become-a-client-section-1-bxZ">
+        <div class="auto-group-3ozm-twf">
+          <p class="why-join-1Fb">Why Join?</p>
+          <p class="partner-with-us-Hyo">Partner with us</p>
+        </div>
+        <div class="auto-group-jjtr-yrd">
+          <img class="auto-group-sgct-VKB" src="/cwc_web/static/src/img/auto-group-sgct.png"/>
+          <div class="layer1-Dky">
+            <img class="group-jUR" src="/cwc_web/static/src/img/group.png"/>
+          </div>
+          <div class="layer1-Eg5">
+            <img class="frysictif-Ywf" src="/cwc_web/static/src/img/frysictif.png"/>
+          </div>
+        </div>
+        <div class="auto-group-8kdr-H8Z">
+          <p class="become-part-of-a-network-of-passionate-associate-marriage-and-family-therapists-amft-and-social-workers-asw-who-share-a-commitment-to-empowering-individuals-to-live-healthier-lives-bQ9">Become part of a network of passionate associate marriage and family therapists (AMFT) and social workers (ASW) who share a commitment to empowering individuals to live healthier lives. </p>
+          <p class="join-a-community-of-dedicated-associate-marriage-and-family-therapists-amft-and-social-workers-asw-who-are-united-by-a-common-goal-empowering-individuals-to-lead-healthier-and-more-fulfilling-lives-zSH">Join a community of dedicated Associate Marriage and Family Therapists (AMFT) and Social Workers (ASW) who are united by a common goal: empowering individuals to lead healthier and more fulfilling lives.</p>
+          <p class="gain-paid-experience-on-your-journey-to-licensure-cyT">Gain paid experience on your journey to licensure.  </p>
+        </div>
+        <div class="auto-group-m4u1-K7B">
+          <div class="layer1-RR7">
+            <img class="group-jRo" src="/cwc_web/static/src/img/group-GT7.png"/>
+          </div>
+          <div class="layer1-T6u">
+            <img class="group-Mi5" src="/cwc_web/static/src/img/group-Mrm.png"/>
+          </div>
+          <div class="layer1-h1F">
+            <img class="ful9cmtif-oa5" src="/cwc_web/static/src/img/ful9cmtif.png"/>
+          </div>
+        </div>
+        <div class="auto-group-cyfh-vPo">
+          <p class="build-your-caseload-navigate-clinical-and-business-intersections-and-become-a-valued-member-of-our-supportive-community-fMP">Build your caseload, navigate clinical and business intersections, and become a valued member of our supportive community. </p>
+          <p class="access-first-class-clinical-supervision-and-clinical-skills-training-through-the-southern-california-counseling-center-XPb">Access first class clinical supervision and clinical skills training through the Southern California Counseling Center. </p>
+          <p class="participate-in-trauma-training-including-emdr-yWV">Participate in Trauma Training including EMDR</p>
+        </div>
+      </div>
+      <div class="group-3-rqB">
+        <div class="auto-group-9emr-BcZ">
+          <p class="join-our-team-7WD">Join our Team</p>
+          <div class="auto-group-ukpt-S2h">
+            <p class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13">
+              <span class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13-sub-0">
+              Benefits of joining our team
+              <br/>
+
+              </span>
+              <span class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13-sub-1">
+              A paid opportunity to gain hours of experience
+              <br/>
+
+              </span>
+              <span class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13-sub-2">
+              towards licensure
+              <br/>
+
+              </span>
+              <span class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13-sub-3">
+              Top-notch clinical supervision
+              <br/>
+              Marketing and networking guidance
+              <br/>
+              Post-licensure planning 
+              <br/>
+              Establish a client base before licensure
+              <br/>
+              Gain valuable experience in navigating the intersection
+              <br/>
+
+              </span>
+              <span class="benefits-of-joining-our-team-a-paid-opportunity-to-gain-hours-of-experience-towards-licensure-top-notch-clinical-supervision-marketing-and-networking-guidance-post-licensure-planning-establish-a-client-base-before-licensure-gain-valuable-experience-in-navigating-the-intersection-of-clinical-practice-and-business-operations-x13-sub-4">of clinical practice and business operations.</span>
+            </p>
+            <img class="vector-3-RFK" src="REPLACE_IMAGE:152:716"/>
+            <img class="vector-4-9x1" src="REPLACE_IMAGE:152:717"/>
+            <img class="vector-5-Jpu" src="REPLACE_IMAGE:152:718"/>
+            <img class="vector-6-Tho" src="REPLACE_IMAGE:152:719"/>
+            <img class="vector-7-nEH" src="REPLACE_IMAGE:152:720"/>
+          </div>
+        </div>
+        <div class="auto-group-jdt9-iNq">
+          <div class="rectangle-23-G9T">
+          </div>
+          <div class="rectangle-24-bBj">
+          </div>
+          <img class="adobestock167820746preview-1-L9K" src="/cwc_web/static/src/img/adobestock167820746preview-1.png"/>
+        </div>
+      </div>
+      <div class="auto-group-jdgf-du7">
+        <div class="join-our-team-section-apM">
+          <div class="rectangle-31-Wxu">
+          </div>
+          <p class="have-a-current-registered-associate-with-the-bbs-complete-the-application-process-and-any-necessary-interviewing-be-approved-by-the-cwc-clinical-team-TNM">
+          Have a current registered associate # with the BBS
+          <br/>
+          Complete the application process and any necessary interviewing
+          <br/>
+          Be approved by the CWC clinical team
+          </p>
+          <div class="auto-group-lxx9-gku">
+            <p class="requirements-RTb">Requirements</p>
+            <p class="how-to-get-started-vfF">How to get started</p>
+          </div>
+        </div>
+        <img class="adobestock480962535preview-1Au" src="/cwc_web/static/src/img/adobestock480962535preview.png"/>
+      </div>
+      <p class="get-started-7Dw">Get Started</p>
+      <p class="apply-now-ocZ">Apply Now</p>
+      <div class="auto-group-fngb-L6h">
+        <div class="group-4-gAZ">
+          <p class="caseload-preferences-p1s">Caseload Preferences</p>
+          <div class="auto-group-ddru-j8q">
+            <p class="what-is-your-desired-caseload-UMK">What is your desired caseload?</p>
+            <div class="rectangle-48-Azq">
+            </div>
+          </div>
+        </div>
+        <div class="auto-group-arzr-VnD">
+          <p class="what-is-your-registered-associate-with-the-bbs-2n9">What is your registered associate # with the BBS?</p>
+          <div class="rectangle-44-iey">
+          </div>
+        </div>
+        <p class="professional-information-rFP">Professional  Information</p>
+        <div class="personal-information-form-9VP">
+          <p class="personal-information-fCq">Personal Information</p>
+          <div class="auto-group-z3vj-b6V">
+            <div class="auto-group-mndr-veZ">Full legal name*</div>
+            <div class="auto-group-hk4t-zuK">Preferred name (if applicable)</div>
+          </div>
+          <div class="auto-group-qgov-HdX">
+            <div class="pronouns-KKK">Pronouns</div>
+            <div class="auto-group-npa7-zgM">Phone Number*</div>
+          </div>
+          <div class="auto-group-yn5q-Gtm">Email</div>
+        </div>
+        <div class="networking-and-marketing-mad">
+          <p class="networking-and-marketing-hDP">Networking and Marketing</p>
+          <div class="auto-group-bqod-2WZ">
+            <p class="are-you-willing-to-network-and-market-your-therapy-services-BPT">Are you willing to network and market your therapy services?</p>
+            <div class="rectangle-48-sn5">
+            </div>
+          </div>
+        </div>
+        <div class="additional-information-cDs">
+          <div class="auto-group-7ye3-wG9">
+            <p class="additional-information-TkH">Additional Information</p>
+            <div class="auto-group-6wlt-NMT">
+              <p class="is-there-anything-else-you-want-us-to-know-WiZ">Is there anything else you want us to know?</p>
+              <div class="rectangle-48-19X">
+              </div>
+            </div>
+            <div class="auto-group-u4cs-XNm">
+              <p class="do-you-have-any-questions-59P">Do you have any questions?</p>
+              <div class="rectangle-49-kWR">
+              </div>
+            </div>
+          </div>
+          <div class="auto-group-c2jo-USR">Submit</div>
+        </div>
+      </div>
+      <div class="auto-group-emgp-keq">
+        <p class="have-a-question-contact-us-today-5x1">Have a Question? Contact us Today</p>
+        <div class="auto-group-otm1-oND">Contact Us</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>

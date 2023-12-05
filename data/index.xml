@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="home">
+        <t t-call="website.layout">
+            <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>
+</head>
+<body>
+<div class="homepage-GsF">
+  <div class="auto-group-k7vd-uWD">
+    <div class="become-a-client-section-1-rAZ">
+      <div class="auto-group-jp8j-LLd">
+        <div class="auto-group-b9wh-rpm">
+          <p class="become-a-client-NYD">Become a client</p>
+          <p class="get-help-5Bj">Get Help</p>
+        </div>
+        <p class="take-a-look-at-our-provider-directory-to-find-a-therapist-today-kYm">
+        Take a Look at our Provider Directory to
+        <br/>
+        Find a Therapist Today
+        </p>
+        <a href="/get-help"><div class="auto-group-yie7-Eiq">View Directory</div></a>
+      </div>
+      <img class="adobestock642110983preview-1-v5s" src="/cwc_web/static/src/img/adobestock642110983preview-1.png"/>
+    </div>
+    <div class="header-1-dW5">
+      <img class="screenshot-2023-08-18-at-612-1-NCm" src="/cwc_web/static/src/img/screenshot-2023-08-18-at-612-1.png"/>
+      <div class="rectangle-78-Umb">
+      </div>
+      <p class="supporting-your-mental-health-journey--yiM">
+      Supporting Your
+      <br/>
+      Mental Health Journey:
+      </p>
+      <div class="rectangle-79-dnu">
+      </div>
+      <p class="individual-couples-and-family-counseling-MU1">Individual, Couples, and Family Counseling</p>
+    </div>
+  </div>
+  <div class="join-our-team-section-24M">
+    <div class="auto-group-sk9r-ixm">
+      <div class="rectangle-20-GDb">
+      </div>
+      <img class="adobestock325736831preview-QKo" src="/cwc_web/static/src/img/adobestock325736831preview.png"/>
+    </div>
+    <div class="auto-group-bgom-7ED">
+      <div class="auto-group-b8qs-2c5">
+        <p class="join-our-team-m3s">Join Our Team</p>
+        <p class="bbs-licensed-associates-etM">BBS LICENSED ASSOCIATES</p>
+      </div>
+      <p class="gain-paid-experience-on-your-journey-to-licensureaccess-first-class-clinical-supervision-and-clinical-skills-training-through-the-southern-california-counseling-center-build-your-caseload-navigate-clinical-and-business-intersections-and-become-a-valued-member-of-our-supportive-community-jQ1">
+      Gain paid experience on your journey to licensure. Access first class clinical supervision and clinical skills training through the Southern California Counseling Center. Build your caseload, navigate clinical
+      <br/>
+      and business intersections, and become a valued member of our supportive community.
+      <br/>
+
+      </p>
+      <a href="/join-our-team"><div class="auto-group-zhyf-HZw">
+        <p class="join-us-RAM">Join Us</p>
+        <div class="rectangle-19-v77">
+        </div>
+      </div>
+      </a>
+    </div>
+  </div>
+  <div class="group-3-dGR">
+    <div class="auto-group-hyu7-YPP">
+      <div class="auto-group-xjwp-r9B">
+        <p class="empowering-strength-fostering-change-accessible-mental-health-for-all-zWH">
+        Empowering Strength,
+        <br/>
+        Fostering Change: Accessible
+        <br/>
+        Mental Health for All
+        </p>
+        <p class="who-we-are-FBK">Who we are</p>
+      </div>
+      <p class="the-cwc-is-a-community-of-therapists-who-specialize-in-relational-client-centered-trauma-informed-therapy-our-counselors-offer-personalized-support-creating-a-safe-space-where-everyones-voice-is-heard-we-aim-to-foster-healing-empowerment-and-positive-social-change-by-offering-affordable-and-accessible-mental-health-services-YAR">The CWC is a community of therapists who specialize in relational,  client-centered, trauma-informed therapy. Our counselors offer personalized support, creating a safe space where everyone&#39;s voice is heard. We aim to foster healing, empowerment, and positive social change by offering affordable and accessible mental health services.</p>
+      <p class="we-provide-both-in-person-and-online-telehealth-counseling-options-hSd">We provide both in-person and online telehealth counseling options.</p>
+
+        <a href="/aboutus"><div class="auto-group-d4vz-yf3"><p class="learn-more-Wus">Learn More</p>
+        <div class="rectangle-19-DpH">
+        </div>
+      </div>
+      </a>
+    </div>
+    <div class="auto-group-qnm9-Xpy">
+      <img class="adobestock393162993preview-1-V17" src="/cwc_web/static/src/img/adobestock393162993preview-1.png"/>
+    </div>
+  </div>
+  <div class="pre-foot-cta-mzD">
+    <div class="rectangle-32-uad">
+    </div>
+    <div class="rectangle-33-eHK">
+    </div>
+    <img class="screenshot-2023-08-18-at-407-1-yqP" src="/cwc_web/static/src/img/screenshot-2023-08-18-at-407-1-8R3.png"/>
+    <div class="rectangle-81-uj3">
+    </div>
+    <p class="have-a-questioncontact-us-today-Dzd">
+    Have a Question?
+    <br/>
+    Contact us Today
+    </p>
+    <a href="/contactus"> <p class="contact-us-7KK">Contact Us</p>
+    <div class="rectangle-32-pDj">
+    </div>
+    <div class="rectangle-21-ZBK">
+    </div>
+    <div class="rectangle-33-sxh">
+    </div>
+    </a>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>

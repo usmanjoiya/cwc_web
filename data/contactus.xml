@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="contactus">
+        <t t-call="website.layout">
+              <head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#000000" />
+  <title>HOMEPAGE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Khula%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
+<!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
+  <link rel="stylesheet" href="/cwc_web/static/src/css/contact.css"/>
+</head>
+
+<body>
+<div class="contact-hBb">
+  <div class="contact-page-SPP">
+    <div class="auto-group-txrf-oDw">
+      <div class="auto-group-wgvf-ZD7">
+        <div class="become-a-client-section-1-Huo">
+          <p class="at-the-california-wellness-collective-cwc-your-well-being-is-our-utmost-priority-whether-you-would-like-to-request-an-intake-session-have-questions-about-our-services-wish-to-join-our-esteemed-community-of-counselors-or-simply-need-toreach-out-were-here-for-you-if-you-or-someone-you-know-are-in-immediate-danger-or-experiencing-a-crisis-please-dial-911-26h">
+          At the California Wellness Collective (CWC), your well-being is our utmost priority. Whether you would like to request an intake session, have questions about our services, wish to join our esteemed community of counselors, or simply need to
+          <br/>
+          reach out, we&#39;re here for you.
+          <br/>
+
+          <br/>
+          If you or someone you know are in immediate danger or experiencing
+          <br/>
+          a crisis, please dial 911.
+          </p>
+          <p class="office-hours-monday-to-friday-9-00-am-5-00-pm-saturday-by-appointment-only-sunday-closed-Yz9">
+            <span class="office-hours-monday-to-friday-9-00-am-5-00-pm-saturday-by-appointment-only-sunday-closed-Yz9-sub-0">
+            Office Hours: 
+            <br/>
+
+            </span>
+            <span class="office-hours-monday-to-friday-9-00-am-5-00-pm-saturday-by-appointment-only-sunday-closed-Yz9-sub-1">
+            Monday to Friday: 9:00 AM - 5:00 PM 
+            <br/>
+            Saturday: By appointment only 
+            <br/>
+            Sunday: Closed
+            </span>
+          </p>
+          <p class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM">
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-0">
+            Office Address:
+            <br/>
+
+            </span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-1">
+            California Wellness Collective
+            <br/>
+            5615 W Pico Blvd.
+            <br/>
+            Los Angeles, CA 90019
+            <br/>
+
+            <br/>
+
+            </span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-2">Phone: </span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-3">
+            (323) 937-1344
+            <br/>
+
+            </span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-4">Email:</span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-5"> </span>
+            <span class="office-address-california-wellness-collective-5615-w-pico-blvd-los-angeles-ca-90019-phone-323-937-1344-email-hellocawellnesscollectivecom-apM-sub-6">hello@cawellnesscollective.com</span>
+          </p>
+          <div class="zetong-li-ff9q1ucikdc-unsplash-1-DwB">
+          </div>
+        </div>
+        <img class="zetong-li-ff9q1ucikdc-unsplash-2-hrM" src="/cwc_web/static/src/img/zetong-li-ff9q1ucikdc-unsplash-2.png"/>
+        <div class="rectangle-35-S3F">
+        </div>
+        <p class="contact-BFj">Contact</p>
+      </div>
+      <div class="group-3-FFb">
+        <p class="inquiries-feedback-M3j">Inquiries &amp; Feedback </p>
+        <p class="use-the-form-below-to-send-us-your-questions-comments-or-feedback--29s">
+        Use the form below to send us your questions,
+        <br/>
+        comments, or feedback:
+        </p>
+        <div class="auto-group-aceo-69j">
+          <div class="auto-group-s7cf-Qw7">Name*</div>
+          <div class="auto-group-fhgf-fs3">Email Address</div>
+        </div>
+        <div class="pronouns-ME5">
+          <p class="subject-siD">Subject</p>
+          <img class="polygon-1-oLy" src="/cwc_web/static/src/img/polygon-1.png"/>
+        </div>
+        <div class="auto-group-sr7z-jEd">
+          <p class="message-2Dj">Message</p>
+          <img class="auto-group-mwbh-9JM" src="/cwc_web/static/src/img/auto-group-mwbh.png"/>
+        </div>
+        <div class="auto-group-qgp5-Gds">Submit</div>
+        <p class="for-urgent-support-outside-of-our-operating-hours-please-consider-reaching-out-to-a-local-crisis-hotline-or-seeking-immediate-professional-assistance-your-privacy-is-important-to-us-information-submitted-via-this-form-will-only-be-used-to-respond-to-your-inquiry-we-will-not-share-your-information-with-third-parties-AUM">
+        For urgent support outside of our operating hours, please consider reaching out to a local crisis hotline or seeking immediate professional assistance.
+        <br/>
+
+        <br/>
+        Your privacy is important to us. Information submitted via this form will only be used to respond to your inquiry. We will not share your information with third parties.
+        </p>
+      </div>
+    </div>
+    <div class="auto-group-wkkd-vrq">
+      <div class="join-our-team-section-UtM">
+        <div class="rectangle-31-D5F">
+        </div>
+        <img class="screenshot-2023-09-25-at-434-1-HL1" src="/cwc_web/static/src/img/screenshot-2023-09-25-at-434-1.png"/>
+        <p class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM">
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-0">
+
+          <br/>
+
+          <br/>
+
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-1">Connect With </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-2">Us Online</span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-3">:</span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-4">
+
+          <br/>
+
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-5">Follow our journey and stay updated on the</span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-6">
+           latest news, resources, and events.
+          <br/>
+
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-7">
+
+          <br/>
+
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-8">       </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-9">
+          Follow us on Facebook
+          <br/>
+                 Connect with us on Instagram
+          <br/>
+                 Network with us on LinkedIn
+          </span>
+        </p>
+        <img class="adobestock197216881preview-1-Cof" src="/cwc_web/static/src/img/adobestock197216881preview-1.png"/>
+<!--        <img class="vector-XL9" src="/cwc_web/static/src/img/vector-Ta5.png"/>-->
+<!--        <img class="vector-Tjb" src="/cwc_web/static/src/img/vector-M1F.png"/>-->
+<!--        <img class="vector-CBP" src="/cwc_web/static/src/img/vector-J3o.png"/>-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+        </t>
+    </template>
+</odoo>
