@@ -14,6 +14,13 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Serif+Display%3A400"/>
 <!--  <link rel="stylesheet" href="/cwc_web/static/src/css/style.css"/>-->
   <link rel="stylesheet" href="/cwc_web/static/src/css/contact.css"/>
+                <style>
+                  .btn-lg, .btn-group-lg > .btn {
+    padding: 1rem 38.3rem !important;
+    font-size: 2.25rem !important;
+    border-radius: 0.3rem;
+}
+                </style>
 </head>
 
 <body>
@@ -77,7 +84,7 @@
           <div class="zetong-li-ff9q1ucikdc-unsplash-1-DwB">
           </div>
         </div>
-        <img class="zetong-li-ff9q1ucikdc-unsplash-2-hrM" src="/cwc_web/static/src/img/zetong-li-ff9q1ucikdc-unsplash-2.png"/>
+        <img class="zetong-li-ff9q1ucikdc-unsplash-2-hrM" src="/cwc_web/static/src/img/Website_Image_Assets/Contact/zetong-li-ff9Q1UcIKDc-unsplash.jpg"/>
         <div class="rectangle-35-S3F">
         </div>
         <p class="contact-BFj">Contact</p>
@@ -90,18 +97,17 @@
         comments, or feedback:
         </p>
         <div class="auto-group-aceo-69j">
-          <div class="auto-group-s7cf-Qw7">Name*</div>
-          <div class="auto-group-fhgf-fs3">Email Address</div>
+
+          <input id="contact1" class="auto-group-s7cf-Qw7" placeholder="Name*"/>
+
+          <input id="contact2" class="auto-group-fhgf-fs3" placeholder="Email*"/>
         </div>
-        <div class="pronouns-ME5">
-          <p class="subject-siD">Subject</p>
-          <img class="polygon-1-oLy" src="/cwc_web/static/src/img/polygon-1.png"/>
-        </div>
-        <div class="auto-group-sr7z-jEd">
-          <p class="message-2Dj">Message</p>
-          <img class="auto-group-mwbh-9JM" src="/cwc_web/static/src/img/auto-group-mwbh.png"/>
-        </div>
-        <div class="auto-group-qgp5-Gds">Submit</div>
+        <input id="contact3" class="pronouns-ME5" placeholder="Subject"/>
+        <input id="contact4" class="auto-group-sr7z-jEd" placeholder="Message"/>
+         <div class="form-group col-12 s_website_form_submit auto-group-qgp5-Gds" data-name="Submit Button" bis_skin_checked="1">
+                                                    <a href="#" role="button" class="btn btn-lg s_website_form_send">Submit</a>
+                                                    <span id="s_website_form_result"></span>
+                                                </div>
         <p class="for-urgent-support-outside-of-our-operating-hours-please-consider-reaching-out-to-a-local-crisis-hotline-or-seeking-immediate-professional-assistance-your-privacy-is-important-to-us-information-submitted-via-this-form-will-only-be-used-to-respond-to-your-inquiry-we-will-not-share-your-information-with-third-parties-AUM">
         For urgent support outside of our operating hours, please consider reaching out to a local crisis hotline or seeking immediate professional assistance.
         <br/>
@@ -145,14 +151,19 @@
           </span>
           <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-8">       </span>
           <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-9">
-          Follow us on Facebook
+         <img class="" src="/cwc_web/static/src/img/vector-J3o.png" style="height:17px; width:17px;padding:1px 1px 3px 1px;"/>Follow us on Facebook
           <br/>
-                 Connect with us on Instagram
-          <br/>
-                 Network with us on LinkedIn
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-9">
+         <img class="" src="/cwc_web/static/src/img/vector-M1F.png" style="height:17px; width:17px;padding:1px 1px 3px 1px;"/>Connect with us on Instagram
+            <br/>
+          </span>
+          <span class="connect-with-us-online-follow-our-journey-and-stay-updated-on-the-latest-news-resources-and-events-follow-us-on-facebook-connect-with-us-on-instagram-network-with-us-on-linkedin-oJM-sub-9">
+                <img class="" src="/cwc_web/static/src/img/vector-Ta5.png" style="height:17px; width:17px;padding:1px 1px 3px 1px;"/>  Network with us on LinkedIn
+            <br/>
           </span>
         </p>
-        <img class="adobestock197216881preview-1-Cof" src="/cwc_web/static/src/img/adobestock197216881preview-1.png"/>
+        <img class="adobestock197216881preview-1-Cof" src="/cwc_web/static/src/img/Website_Image_Assets/Contact/AdobeStock_197216881.jpeg"/>
 <!--        <img class="vector-XL9" src="/cwc_web/static/src/img/vector-Ta5.png"/>-->
 <!--        <img class="vector-Tjb" src="/cwc_web/static/src/img/vector-M1F.png"/>-->
 <!--        <img class="vector-CBP" src="/cwc_web/static/src/img/vector-J3o.png"/>-->
